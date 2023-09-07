@@ -1,4 +1,4 @@
-# Registro y Matriculación de Usuarios en Moodle
+# Registro y Matriculación de Usuarios en Moodle.
 
 Este proyecto proporciona un formulario web para registrar usuarios en Moodle y matricularlos automáticamente en cursos específicos.
 
@@ -38,8 +38,8 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar este proyecto:
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes enviar problemas (issues) y solicitudes de extracción (pull requests) en GitHub.
 
 ## Screedshop
-![Example](./img/users.png)
 
+![Example](./img/users.png)
 
 ## Licencia
 
